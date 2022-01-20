@@ -1,0 +1,48 @@
+/* CSS DOCUMENT*/
+
+
+h1 { 
+    color: rgb(45,88,117);
+    margin: 0;
+    padding: 1em 1em 1em 1em;
+    font-size: 3em;
+    background-color: rgb(228,239,250);
+    font-family: sans-serif;
+    text-transform: capitalize
+}
+
+h2 {
+    color: rgb(255, 174, 0);
+    font-family: sans-serif;
+    padding: 1em 1em 1em 2em;
+    background-color: rgb(228,239,250);
+    
+   } 
+
+h3 {
+    color: rgb(45,88,117);
+    font-family: sans-serif;
+    padding: 1em 1em 1em 2.5em;
+    background-color: rgb(228,239,250);
+}
+
+h4 {
+    color: rgb(71,83,91);
+    padding: 1em 1em 0em 2em;
+}
+
+p {
+    color: rgb(71,83,91);
+    font-size: 1em;
+    padding: 0em 1em 0em 2em;
+}
+
+.price {
+    
+    font-style: italic;
+}
+
+ul {
+    list-style: none;
+}
+
